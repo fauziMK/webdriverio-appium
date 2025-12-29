@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# WDIO
+.allure-results/
+.allure-report/
+log
+logs/
+
+# Appium
+appium.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Android
+.android/
+*.apk
+*.apks
+
+# iOS
+DerivedData/
+*.app
+*.ipa
+
+# VS Code
+.vscode/
+
+# GitLens cache
+.gitlens/
